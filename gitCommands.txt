@@ -1,0 +1,11 @@
+
+1.	git init
+2.	git status
+3.	git add  
+4.	git reset
+5.	git commit –m “<Comments>“ 
+7.	git log 
+8.	git remote <remote name>  <repository URL>
+9.	git push –u origin master
+10.     git diff 
+
