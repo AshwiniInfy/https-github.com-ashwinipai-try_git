@@ -1,4 +1,4 @@
 This is the first txt file created
 
-trying branch  merge conflicts 
- THis comment is added from POC branch
+Edited from mergeBranchPOC
+
